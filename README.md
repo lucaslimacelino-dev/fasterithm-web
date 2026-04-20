@@ -2,6 +2,9 @@
 
 Fasterithm é uma plataforma de aprendizado de algoritmos focada em explicações rápidas, visuais e objetivas.
 
+##  Deploy
+Link do projeto: https://fasterithm-web.vercel.app
+
 ##  Ideia
 O objetivo é ensinar algoritmos de forma simples, com vídeos curtos (1–2 minutos) e visualizações intuitivas, facilitando o entendimento sem excesso de teoria.
 
