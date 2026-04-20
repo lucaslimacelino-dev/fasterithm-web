@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vite": "^4.5.0"
   },
   "devDependencies": {
+    "vite": "^4.5.0"
   }
 }
